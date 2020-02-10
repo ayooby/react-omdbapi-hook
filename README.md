@@ -1,8 +1,10 @@
+![](https://github.com/ayooby/react-omdbapi-hook/blob/master/screenshot.png?raw=true)
 ## What is this app
 
 Find your favorite movie and rate them.
 This is a simple react application which let you search for the movie/tv shows and rate them.
 All data will save on the browser local storage.
+
 
 ## How to use
 
