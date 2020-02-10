@@ -22,13 +22,13 @@ function Header() {
         <Nav className="mr-auto">
           <Link
             className="nav-link"
-            to={location => ({ ...location, pathname: "/" })}
+            to="/"
           >
             Home
           </Link>
           <Link
             className="nav-link"
-            to={location => ({ ...location, pathname: "/my-movies" })}
+            to="my-movies"
           >
             My Movie
           </Link>
